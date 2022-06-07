@@ -37,7 +37,7 @@ export class ToogleButtons extends Component {
                             <div class="hero-content flex-col lg:flex-row">
                                 <img style={{ width: "300px" }} src={img1} />
                                 <div className='lg:text-left ml-5'>
-                                    <h1 class="text-5xl font-bold">POP-UNDER</h1>
+                                    <h1 class="text-5xl font-bold text-primary">POP-UNDER</h1>
                                     <p class="py-6">This is one of the most popular ads. After user’s click, this
                                         ad opens landing page in behind. So, the user experience is
                                         not hampered much.
@@ -52,7 +52,7 @@ export class ToogleButtons extends Component {
                             <div class="hero-content flex-col lg:flex-row">
                                 <img style={{ width: "300px" }} src={img2} />
                                 <div className='lg:text-left ml-5'>
-                                    <h1 class="text-5xl font-bold">BANNER AD</h1>
+                                    <h1 class="text-5xl font-bold text-primary">BANNER AD</h1>
                                     <p class="py-6">Choose between the available banner formats. Highly
                                         effective ad for visibility</p>
                                     <Link className='text-secondary text-xl' to='/'>Learn More <span className='ml-2'><FontAwesomeIcon icon={faUpRightFromSquare} /></span></Link>
@@ -65,7 +65,7 @@ export class ToogleButtons extends Component {
                             <div class="hero-content flex-col lg:flex-row">
                                 <img style={{ width: "300px" }} src={img3} />
                                 <div className='lg:text-left ml-5'>
-                                    <h1 class="text-5xl font-bold">NATIVE</h1>
+                                    <h1 class="text-5xl font-bold text-primary">NATIVE</h1>
                                     <p class="py-6">Ad format with the image and the title, that perfectly fits into
                                         the content of the site.
                                         Native ads are placed in the most visible areas of the page
@@ -81,7 +81,7 @@ export class ToogleButtons extends Component {
                             <div class="hero-content flex-col lg:flex-row">
                                 <img style={{ width: "300px" }} src={img4} />
                                 <div className='lg:text-left ml-5'>
-                                    <h1 class="text-5xl font-bold">SKIM</h1>
+                                    <h1 class="text-5xl font-bold text-primary">SKIM</h1>
                                     <p class="py-6">SKIM" is a link that a publisher inserts on a specific site
                                         element, and after clicking on it, an advertisement appears
                                         to the user.

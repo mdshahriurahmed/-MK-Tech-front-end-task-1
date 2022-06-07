@@ -1,0 +1,22 @@
+.b1 {
+    background-color: #644f9c;
+    border: 2px dashed white;
+
+    box-shadow: 4px 4px 10px;
+
+
+}
+
+.b1 {
+    text-shadow: 4px 4px 5px black;
+}
+
+.b2 {
+
+
+    box-shadow: 4px 4px 10px;
+}
+
+.b2 {
+    text-shadow: 4px 4px 5px black;
+}
