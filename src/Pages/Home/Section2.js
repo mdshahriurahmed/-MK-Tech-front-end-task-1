@@ -9,7 +9,7 @@ const Section2 = () => {
             <h1 className='text-4xl text-secondary mt-0 font-semibold'>AVAILABLE FOR EVERYONE</h1>
             <p className='text-xl font-regular mt-1'>Purchase Your Advertisment Service</p>
 
-            <div className='grid lg:grid-cols-3 grid-cols-12 gap-5 justify-between justify-items-center mt-20'>
+            <div className='grid lg:grid-cols-3 grid-cols-1 gap-5 lg:justify-between  justify-center justify-items-center mt-20'>
 
                 <div class="card w-80 bg-accent flex flex-col justify-center items-center ">
                     <div class="card-body">
