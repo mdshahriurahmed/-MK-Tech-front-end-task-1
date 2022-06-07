@@ -3,7 +3,7 @@ import ad from '../Assets/unnamed.jpg'
 
 const Section1 = () => {
     return (
-        <div class="hero min-h-screen ">
+        <div class="hero my-20 ">
             <div class="hero-content flex-col lg:flex-row-reverse  ">
                 <img className='rounded-lg shadow-lg' style={{ width: "500px" }} src={ad} />
                 <div className='lg:text-left '>
