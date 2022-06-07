@@ -6,7 +6,7 @@ import Section4 from './Section4';
 
 const Home = () => {
     return (
-        <div className='px-5'>
+        <div className='px-5 pb-2 '>
             <Section1></Section1>
             <Section2></Section2>
             <Section3></Section3>

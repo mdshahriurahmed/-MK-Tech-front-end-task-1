@@ -3,7 +3,7 @@ import './Section4.css'
 
 const Section4 = () => {
     return (
-        <div className='bg-secondary py-10 px-5'>
+        <div className='bg-secondary py-10 px-5 s'>
             <h1 className='text-4xl text-white mt-0 font-semibold'>SUMMARY</h1>
             <div>
                 <div className='grid lg:grid-cols-3 grid-cols-1 gap-10 lg:justify-between  justify-center justify-items-center mt-20'>
